@@ -1,0 +1,6 @@
+{ "type": "ant_src",
+  "files": ["src/hangman/RecursiveGameModel.java",
+  			"src/list/RecursiveLinkedList.java",
+  			"src/list/RecursiveNode.java"],
+  "tests": ["junit_tests"]
+}
