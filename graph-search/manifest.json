@@ -1,0 +1,5 @@
+{ "type": "ant_src",
+  "files": ["src/puzzle/EightPuzzle.java",
+  			"src/search/Searcher.java"],
+  "tests": ["junit_tests"]
+}
