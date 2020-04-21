@@ -1,0 +1,11 @@
+{
+  "type": "ant_src",
+  "files": [
+    "src/scheduler/Student.java",
+    "src/scheduler/Course.java",
+    "src/scheduler/Scheduler.java"
+  ],
+  "tests": [
+    "junit_tests"
+  ]
+}
