@@ -1,0 +1,5 @@
+{ "type": "ant_src",
+  "files": ["src/log/LogParser.java",
+  			"src/log/SuspectEntry.java"],
+  "tests": ["junit_tests"]
+}
