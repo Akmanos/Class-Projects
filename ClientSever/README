@@ -1,0 +1,4 @@
+all classes are made to be run from terminal 
+ex:
+javac client.java
+java client [ip] [port number]
