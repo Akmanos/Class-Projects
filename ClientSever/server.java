@@ -56,9 +56,9 @@ public class server {
 			BufferedReader stdIn = new BufferedReader(new InputStreamReader(System.in));
 			
 			//f9.png 
-			File png = new File("C:\\Users\\natha\\Downloads\\f9.png");
+			File png = new File(".\f9.png");
 			//map.pdf
-			File pdf = new File("C:\\Users\\natha\\Download\\map.pdf");
+			File pdf = new File(".\map.pdf");
 			
 			String response="Please select from menu: 1. f9.png  2. map.pdf 3. bye";
 			String client;
